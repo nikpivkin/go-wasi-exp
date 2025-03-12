@@ -1,0 +1,6 @@
+*.wasm
+*.wat
+*.gz
+
+# generated
+internal
